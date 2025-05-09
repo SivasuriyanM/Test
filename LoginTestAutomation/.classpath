@@ -1,0 +1,4 @@
+<classpath>
+    
+    <classpathentry kind="lib" path="libs/libs/selenium-server-4.32.0.jar"/> <!-- Include all JARs in the libs folder -->
+</classpath>
